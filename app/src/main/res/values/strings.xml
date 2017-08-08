@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AShell_ComLine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ver">1.2.0</string>
+    <string name="ASName">AShell_ComLine</string>
+    <string name="Help"> BREAK 強制跳出當前執行之WHILE迴圈。\n
+                     call 呼叫腳本檔。\n
+                     continue 強制結束本次WHILE執行，繼續執行下一次之WHILE。\n
+                     dwhile 後測式條件式迴圈。\n
+                     endfu 結束函數宣告。\n
+                     endif 結束條件式。\n
+                     endwh 結束條件式迴圈。\n
+                     elseif 否則如果條件式。\n
+                     else 否則條件式。\n
+                     exit 結束腳本。\n
+                     function 開始宣告函數。\n
+                     goto 無條件的將控制權傳輸至被指定的標籤。\n\t語法 GOTO A\n\t\tA：標籤名稱。\n
+                     if 條件式。\n
+                     native 呼叫AShell的基底函數。\n
+                     npcall 再不暫停目前執行中腳本的情況下，呼叫另一個腳本檔。\n
+                     nvar 定義、改變變數值(整數型)。\n
+                     pause 暫停處理批次檔並顯示訊息。\n
+                     return 回傳函數值。\n
+                     using 引用AShell內建腳本檔。\n
+                     unvar 清除已宣告之變數。\n
+                     var 定義、改變變數值。</string>
+
+</resources>

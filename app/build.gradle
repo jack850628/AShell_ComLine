@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    //compileOptions.encoding = "Big5"
+    compileOptions.encoding = "UTF-8"
+
+    defaultConfig {
+        applicationId "com.example.AShell_ComLine"
+        minSdkVersion 19
+        targetSdkVersion 24
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+
+        ndk {
+            moduleName "Call_System"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    externalNativeBuild {
+        ndkBuild {
+            path 'src/main/jni/Android.mk'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:25.2.0'
+}

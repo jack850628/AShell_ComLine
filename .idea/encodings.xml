@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/AShell.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CallSystem.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CommandResolve/ArrayNameResolve.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CommandResolve/CreateSyntaxTree.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CommandResolve/ForArgsScan.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CommandResolve/FunctionNameResolve.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/CommandResolve/StringScan.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Data_Type_And_Struct/Function.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Data_Type_And_Struct/IsNumeric.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Data_Type_And_Struct/Value_Array.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/InterFact/Clear.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/InterFact/Print.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/InterFact/Read.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/InterFact/Stop.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Memory_Management/GetParent.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Memory_Management/Memory_Management.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Memory_Management/ValueListSet.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/Thread_List.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/ValueProcess/Count_Set.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/ValueProcess/ResultsValue.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/ValueProcess/StrDW.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell/ValueProcess/VarStrDW.java" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell_ComLine/AShell_ComLine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell_ComLine/External_Boot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell_ComLine/Sound.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/AShell_ComLine/directoryfilefilter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\jack8\.android\build-cache\d8a6c04a74c5008b21a17848fa7bb2f9b8843e80\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jack8\.android\build-cache\8bff461c3bd1e0fc9edd9f9782b3159c1a91d113\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jack8\.android\build-cache\a69ad6d22fbf300c0854f038589e12e69bdbf5da\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jack8\.android\build-cache\226c98b83215f9ee6371d691477204287cc87b5c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jack8\.android\build-cache\2eb860fa89f69aca28d0f2827ae5042306da28da\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jack8\.android\build-cache\45a27c65ebeaa3e219f0ae39ce2dcda4724e43a7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\jack8\.android\build-cache\f5d4d65adb8dc4f1077ced07a564c208282f548f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\jack8\.android\build-cache\ce0bc2c3f526aa8b22af820670c0c820ff66e525\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jack8\.android\build-cache\960a36c031d7ef6cfb206b3d014f0c7bfe3573b6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\jack8\.android\build-cache\d8a6c04a74c5008b21a17848fa7bb2f9b8843e80\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\jack8\.android\build-cache\d8a6c04a74c5008b21a17848fa7bb2f9b8843e80\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jack8\.android\build-cache\8bff461c3bd1e0fc9edd9f9782b3159c1a91d113\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jack8\.android\build-cache\a69ad6d22fbf300c0854f038589e12e69bdbf5da\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jack8\.android\build-cache\226c98b83215f9ee6371d691477204287cc87b5c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jack8\.android\build-cache\2eb860fa89f69aca28d0f2827ae5042306da28da\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jack8\.android\build-cache\45a27c65ebeaa3e219f0ae39ce2dcda4724e43a7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\jack8\.android\build-cache\f5d4d65adb8dc4f1077ced07a564c208282f548f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\jack8\.android\build-cache\ce0bc2c3f526aa8b22af820670c0c820ff66e525\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jack8\.android\build-cache\960a36c031d7ef6cfb206b3d014f0c7bfe3573b6\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.AShell_ComLine.Setup
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:18:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:20:14-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.AShell_ComLine.AShell_ComLine
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:25:9-26:96
+	android:configChanges
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:26:13-83
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:25:19-49
+activity#com.example.AShell_ComLine.External_Boot
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:27:9-39:20
+	android:label
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:30:13-83
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:28:13-68
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:31:13-38:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:33:27-73
+data
+ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:34:17-60
+	android:mimeType
+		ADDED from C:\Users\jack8\AndroidStudioProjects\AShell_ComLine\app\src\main\AndroidManifest.xml:34:23-52

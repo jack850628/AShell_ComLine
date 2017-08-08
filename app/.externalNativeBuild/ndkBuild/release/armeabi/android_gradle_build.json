@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\jack8\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003dC:/Users/jack8/AndroidStudioProjects/AShell_ComLine/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "Call_System-release-armeabi": {
+      "buildCommand": "C:\\Users\\jack8\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darmeabi NDK_ALL_ABIS\u003darmeabi NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-19 NDK_OUT\u003dC:/Users/jack8/AndroidStudioProjects/AShell_ComLine/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/jack8/AndroidStudioProjects/AShell_ComLine/app/build/intermediates/ndkBuild/release/obj/local/armeabi/libCall_System.so",
+      "toolchain": "toolchain-armeabi",
+      "abi": "armeabi",
+      "artifactName": "Call_System",
+      "files": [
+        {
+          "src": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\jni\\Call_System.cpp",
+          "flags": "\"-gcc-toolchain\" \"C:/Users/jack8/AppData/Local/Android/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv5te-none-linux-androideabi\" \"-march\u003darmv5te\" \"-mtune\u003dxscale\" \"-msoft-float\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-Os\" \"-DNDEBUG\" \"-IC:/Users/jack8/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/system/include\" \"-IC:/Users/jack8/AndroidStudioProjects/AShell_ComLine/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"C:/Users/jack8/AppData/Local/Android/sdk/ndk-bundle/build//../platforms/android-19/arch-arm\""
+        }
+      ],
+      "output": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi\\libCall_System.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi": {
+      "cppCompilerExecutable": "C:\\Users\\jack8\\AppData\\Local\\Android\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

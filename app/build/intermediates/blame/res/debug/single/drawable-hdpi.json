@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ashell_icom.png",
+        "source": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\res\\drawable-hdpi\\ashell_icom.png"
+    },
+    {
+        "merged": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icom.png",
+        "source": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\res\\drawable-hdpi\\icom.png"
+    },
+    {
+        "merged": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jack8\\AndroidStudioProjects\\AShell_ComLine\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
